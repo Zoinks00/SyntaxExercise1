@@ -1,0 +1,15 @@
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\bin\Debug\net5.0\SyntaxExercise1.exe
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\bin\Debug\net5.0\SyntaxExercise1.deps.json
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\bin\Debug\net5.0\SyntaxExercise1.runtimeconfig.json
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\bin\Debug\net5.0\SyntaxExercise1.runtimeconfig.dev.json
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\bin\Debug\net5.0\SyntaxExercise1.dll
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\bin\Debug\net5.0\ref\SyntaxExercise1.dll
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\bin\Debug\net5.0\SyntaxExercise1.pdb
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\SyntaxExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\SyntaxExercise1.AssemblyInfoInputs.cache
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\SyntaxExercise1.AssemblyInfo.cs
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\SyntaxExercise1.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\SyntaxExercise1.dll
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\ref\SyntaxExercise1.dll
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\SyntaxExercise1.pdb
+C:\Users\forre\repos\SyntaxExercise1\SyntaxExercise1\obj\Debug\net5.0\SyntaxExercise1.genruntimeconfig.cache
